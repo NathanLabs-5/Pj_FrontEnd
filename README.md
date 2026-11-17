@@ -1,16 +1,18 @@
 # NovaCore — Projeto Front-end
 
-## Estrutura
+## Estrutura do projeto
 
-- `paginas/`: arquivos HTML do site.
-- `imagens/`: imagens utilizadas em todas as páginas.
+- Os arquivos HTML ficam diretamente na raiz do projeto.
+- A pasta `imagens/` reúne os arquivos de imagem utilizados nas páginas.
 
 ## Páginas
 
-- `paginas/index.html`: página inicial.
-- `paginas/produtos.html`: produtos.
-- `paginas/servicos.html`: serviços.
-- `paginas/sobre_nos.html`: sobre nós.
-- `paginas/contatos.html`: contatos.
+- `index.html`: página inicial (Home).
+- `produtos.html`: página de produtos.
+- `servicos.html`: página de serviços.
+- `sobre_nos.html`: página sobre a equipe e a empresa.
+- `contatos.html`: página de contatos.
 
-Os caminhos entre páginas e imagens foram ajustados para essa organização.
+## Como executar
+
+Abra a pasta do projeto no Visual Studio Code e inicie o Live Server pelo arquivo `index.html` da raiz.
